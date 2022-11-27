@@ -1,5 +1,5 @@
 <div align=left>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=gradient&customColorList=0,12,21,25,3&text=SEBIN%20Github!&fontSize=55&animation=fadeIn&fontAlignY=40" />	
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=gradient&customColorList=0,12,21,25,3&text=SEBIN%20Github!&fontSize=55&animation=blinking&fontAlignY=40" />	
 </div>
 
 <div align=left>
@@ -73,5 +73,5 @@
 
 <!--footer-->
 <div align=left>
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=200&text=Thank%20You&fontSize=50&animation=blink&fontAlignY=70" />	
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=0,12,21,14,3&height=200&text=Thank%20You&fontSize=50&animation=blink&fontAlignY=70" />	
 </div>
