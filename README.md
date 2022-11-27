@@ -1,10 +1,10 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sebin%20Github!&fontSize=70&animation=blink" />	
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEBIN%20Github!&fontSize=55&animation=blink&fontAlignY=40" />	
 </div>
 <div align=center>
   
 <div align=center>
-	<h3>🎨 Projects 🎨</h3>
+	<h3>🎨 My Projects 🎨</h3>
 </div>
 <div align=center>
 	<a href="https://wkdtpqls.github.io/Portfolio/" target="_blank">
@@ -61,5 +61,5 @@
 
 <!--footer-->
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=200&text=Thank%20You!&fontSize=50&animation=blink" />	
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=200&text=Thank%20You&fontSize=50&animation=blink&fontAlignY=70" />	
 </div>
