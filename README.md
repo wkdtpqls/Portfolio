@@ -16,9 +16,17 @@
 	<h3>🎨 My Projects 🎨</h3>
 </div>
 <div align=left>
+	<p>:star:포트폴리오 Github => 
 	<a href="https://wkdtpqls.github.io/Portfolio/" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
+	</p>
+	<p>:star:포트폴리오 Netlify => 
+	<a href="https://javascript-porfolio.netlify.app/" target="_blank">
+		<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=Netlify&logoColor=white" />
+	</a>
+	</p>
+	<br>
   	<a href="https://wkdtpqls.github.io/HtmlCSSHardCoding/" target="_blank">
 		<img src="https://img.shields.io/badge/Resume-FF8800?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
