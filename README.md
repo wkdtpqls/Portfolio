@@ -1,5 +1,5 @@
 <div align=left>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEBIN%20Github!&fontSize=55&animation=fadeIn&fontAlignY=40" />	
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=gradient&customColorList=0,12,21,25,3&text=SEBIN%20Github!&fontSize=55&animation=fadeIn&fontAlignY=40" />	
 </div>
 
 <div align=left>
@@ -65,7 +65,7 @@
 
 <br><br>
 <!--status-->
-<img src="https://github-readme-stats.vercel.app/api?username=wkdtpqls&show_icons=true&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api?username=wkdtpqls&show_icons=true&theme=buefy">
 </div>
 
 <br><br>
