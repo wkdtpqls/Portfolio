@@ -1,12 +1,21 @@
-<div align=center>
+<div align=left>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SEBIN%20Github!&fontSize=55&animation=blink&fontAlignY=40" />	
 </div>
-<div align=center>
-  
-<div align=center>
+
+<div align=left>
+	<h3>:wave: 반갑습니다!</h3>
+	<ul>
+		<li>:computer:아직 배울것이 많은 개발자 지망생입니다!</li>
+		<li>:heart_eyes:나만의 일을 찾기 위해 열심히 노력중 입니다</li>
+	</ul>
+</div>
+
+<br>
+
+<div align=left>
 	<h3>🎨 My Projects 🎨</h3>
 </div>
-<div align=center>
+<div align=left>
 	<a href="https://wkdtpqls.github.io/Portfolio/" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
@@ -17,12 +26,12 @@
   
 <br> 
   
-<div align=center>
+<div align=left>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
   
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />	
@@ -35,10 +44,10 @@
 </div>
 <br>
 
-<div align=center>
+<div align=left>
 	<h3>🛠 Tools 🛠</h3>
 </div>
-<div align=center>
+<div align=left>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
@@ -48,7 +57,7 @@
 <br><br>
 
 <!--language-->
-<div align=center>
+<div align=left>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtpqls&layout=compact"> 
 
 <br><br>
@@ -60,6 +69,6 @@
 
 
 <!--footer-->
-<div align=center>
+<div align=left>
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=200&text=Thank%20You&fontSize=50&animation=blink&fontAlignY=70" />	
 </div>
