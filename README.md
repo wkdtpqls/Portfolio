@@ -7,10 +7,10 @@
 	<h3>🎨 Projects 🎨</h3>
 </div>
 <div align=center>
-	<a href="https://wkdtpqls.github.io/Portfolio/">
+	<a href="https://wkdtpqls.github.io/Portfolio/" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-  <a href="https://wkdtpqls.github.io/HtmlCSSHardCoding/">
+  <a href="https://wkdtpqls.github.io/HtmlCSSHardCoding/" target="_blank">
 		<img src="https://img.shields.io/badge/CV-FF8800?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 </div>
