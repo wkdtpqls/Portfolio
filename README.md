@@ -44,7 +44,8 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white" />
 </div>
-<br>
+	
+<br><br>
 
 <!--language-->
 <div align=center>
@@ -55,7 +56,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=wkdtpqls&show_icons=true&theme=synthwave">
 </div>
 
-<br>
+<br><br>
 
 
 <!--footer-->
