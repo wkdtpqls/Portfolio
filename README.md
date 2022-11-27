@@ -4,7 +4,7 @@
 <div align=center>
   
 <div align=center>
-	<h3>🎨 SNS & Portfolio 🎨</h3>
+	<h3>🎨 Projects 🎨</h3>
 </div>
 <div align=center>
 	<a href="https://wkdtpqls.github.io/Portfolio/">
