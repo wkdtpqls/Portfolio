@@ -16,12 +16,12 @@
 	<h3>🎨 My Projects 🎨</h3>
 </div>
 <div align=left>
-	<p>:star:포트폴리오 Github => 
+	<p>:star:포트폴리오 Github 바로가기 >>
 	<a href="https://wkdtpqls.github.io/Portfolio/" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Github&logoColor=white" />
 	</a>
 	</p>
-	<p>:star:포트폴리오 Netlify => 
+	<p>:star:포트폴리오 Netlify 바로가기 >>
 	<a href="https://javascript-porfolio.netlify.app/" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=Netlify&logoColor=white" />
 	</a>
