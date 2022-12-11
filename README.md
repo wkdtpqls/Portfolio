@@ -2,20 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=gradient&customColorList=0,12,21,25,3&text=SEBIN's%20Portfolio!&fontSize=55&animation=blinking&fontAlignY=40" />	
 </div>
 
-<div align=left>
-	<h3>:wave: 반갑습니다!</h3>	
-	아직 배울것이 많은 개발자 지망생입니다!:computer: 나만의 일을 찾기 위해 열심히 노력중 입니다
-</div>
 
 
 # Portfolio
+:wave: 반갑습니다! 아직 배울것이 많은 개발자 지망생 장세빈 입니다!:computer: 나만의 일을 찾기 위해 열심히 노력중 입니다<br>
 Bootstap을 활용하여 포트폴리오를 완성하였습니다.
 
 <br>
 
 ## Projects
-- <a href="https://wkdtpqls.github.io/Portfolio/">포트폴리오 웹사이트 바로가기</a>
-
+- 포트폴리오 웹사이트
+	+ <a href="https://wkdtpqls.github.io/Portfolio/">git.io</a> - 깃에 업로드한 포트폴리오 프로젝트 입니다.
+	+  <a href="https://javascript-porfolio.netlify.app/">netlify</a> - Netlify에 업로드한 포트폴리오 프로젝트 입니다.
 <br>
 
 ## Description
