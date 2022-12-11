@@ -5,7 +5,7 @@
 
 
 # Portfolio
-:wave: 반갑습니다! 아직 배울것이 많은 개발자 지망생 장세빈 입니다!:computer: 나만의 일을 찾기 위해 열심히 노력중 입니다<br>
+반갑습니다!:wave: 아직 배울것이 많은 개발자 지망생 장세빈 입니다<br>
 Bootstap을 활용하여 포트폴리오를 완성하였습니다.
 
 <br>
@@ -48,12 +48,6 @@ Bootstap을 활용하여 포트폴리오를 완성하였습니다.
 
 <br>
 
-## Quick Start
-If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
-- For adding your avatar , You have to replace images/my.jpg with your square photo [Perfect size : 160 x 160].
-- For changing background image, You need to replace images/floor.jpg with your prefered background.
-- For changing rest of the information, simply open index.html and you can easily understand everything.
-<br>
 
 ## Contributing
 모든 기여, 문제, 기능 팁을 환영합니다.
