@@ -3,70 +3,68 @@
 </div>
 
 <div align=left>
-	<h3>:wave: 반갑습니다!</h3>
-	<ul>
-		<li>:computer:아직 배울것이 많은 개발자 지망생입니다!</li>
-		<li>:heart_eyes:나만의 일을 찾기 위해 열심히 노력중 입니다</li>
-	</ul>
+	<h3>:wave: 반갑습니다!</h3>	
+	아직 배울것이 많은 개발자 지망생입니다!:computer: 나만의 일을 찾기 위해 열심히 노력중 입니다
 </div>
+
+
+# Portfolio
+Bootstap을 활용하여 포트폴리오를 완성하였습니다.
 
 <br>
 
-<div align=left>
-	<h3>🎨 My Projects 🎨</h3>
-</div>
-<div align=left>
-	<p>:star:포트폴리오 Github 바로가기 >>
-	<a href="https://wkdtpqls.github.io/Portfolio/" target="_blank">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Github&logoColor=white" />
-	</a>
-	</p>
-	<p>:star:포트폴리오 Netlify 바로가기 >>
-	<a href="https://javascript-porfolio.netlify.app/" target="_blank">
-		<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=Netlify&logoColor=white" />
-	</a>
-	</p>
-</div>
+## Projects
+- <a href="https://wkdtpqls.github.io/Portfolio/">포트폴리오 웹사이트 바로가기</a>
 
-# Portfolio
-Bootstap을 활용한 포트폴리오를 완성하였습니다.
+<br>
 
-### Highlights
-1. 설정이 매우 쉽고 나만의 포트폴리오를 무료로 만들 수 있습니다.
-2. 세부 정보를 추가하려면 간단한 코드를 편집하면 됩니다!
-3. 간단하고 빠르게 만들 수 있습니다..
+## Description
+1. 설정이 쉽고 포트폴리오를 무료로 만들 수 있는 Bootstrap을 사용하였습니다.
+2. 세부 정보를 추가하기위해 코드를 간단하게 편집하였습니다!
+3. index.html 파일과 css 파일을 활용하여 만들었습니다.
 
-### Website UI Gallary
-#### About Tab
+<br>
+
+## Website UI Gallary
+
+### Welcome Tab
+![Welcome Tab](https://user-images.githubusercontent.com/112832631/206887730-59c7be18-a8db-41e8-9507-34a5ba44ffe8.png)
+
+### About Tab
 ![About Tab](https://user-images.githubusercontent.com/112832631/206887334-2a17251e-8462-4db1-a120-6a4e933013b1.png)
 
-#### Skills Tab
+### Skills Tab
 ![Skills Tab](https://user-images.githubusercontent.com/112832631/206887350-929077ce-3970-40f6-ba86-1c644b05137d.png)
 
-#### Project Tab
+### Project Tab
 ![Project Tab](https://user-images.githubusercontent.com/112832631/206887358-fc6fb02a-1877-4f7a-bd16-6a89b9279df0.png)
 
 
-#### Contact Tab
+### Contact Tab
 ![Contact Tab](https://user-images.githubusercontent.com/112832631/206887369-8d87b3a0-6312-42aa-a39e-8297d4c29d9b.png)
 
+<br>
 
-### Demo
+## Demo
 이 포트폴리오의 양식을 보려면 [클릭](https://startbootstrap.com/theme/stylish-portfolio)하세요!
 
-### Quick Start
+<br>
+
+## Quick Start
 If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
 - For adding your avatar , You have to replace images/my.jpg with your square photo [Perfect size : 160 x 160].
 - For changing background image, You need to replace images/floor.jpg with your prefered background.
 - For changing rest of the information, simply open index.html and you can easily understand everything.
+<br>
 
-
-### Contributing
+## Contributing
 모든 기여, 문제, 기능 팁을 환영합니다.
 
-### Contact
+## Contact
 
-다른 의견이나 아이디어가 있으시다면 [@sebinjab](https://twitter.com/)
+다른 의견이나 아이디어가 있으시다면 [@sebinjab](https://twitter.com/)으로 연락해주세요.
+
+<br><br>
 
 <!--footer-->
 <div align=left>
