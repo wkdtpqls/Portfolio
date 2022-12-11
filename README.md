@@ -26,61 +26,47 @@
 		<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=Netlify&logoColor=white" />
 	</a>
 	</p>
-	<br>
-  	<a href="https://wkdtpqls.github.io/HtmlCSSHardCoding/" target="_blank">
-		<img src="https://img.shields.io/badge/Resume-FF8800?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="https://wkdtpqls.github.io/" target=_blank>
-		<img src="https://img.shields.io/badge/Blog-184D66?style=flat&logo=Storyblok&logoColor=white" />
-	</a>
-</div>
-  
-<br> 
-  
-<div align=left>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
-</div>
-  
-<div align="left">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />	
-  <br>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
-  
-
-</div>
-<br>
-
-<div align=left>
-	<h3>🛠 Tools 🛠</h3>
-</div>
-<div align=left>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white" />
-</div>
-	
-<br><br>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>     
-
-<br>
-<!--language-->
-<div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtpqls&layout=compact"> 
-
-<br><br>
-<!--status-->
-<img src="https://github-readme-stats.vercel.app/api?username=wkdtpqls&show_icons=true&theme=buefy">
 </div>
 
-<br><br>
+# Portfolio
+Bootstap을 활용한 포트폴리오를 완성하였습니다.
 
+### Highlights
+1. 설정이 매우 쉽고 나만의 포트폴리오를 무료로 만들 수 있습니다.
+2. 세부 정보를 추가하려면 간단한 코드를 편집하면 됩니다!
+3. 간단하고 빠르게 만들 수 있습니다..
+
+### Website UI Gallary
+#### About Tab
+![About Tab](https://user-images.githubusercontent.com/112832631/206887334-2a17251e-8462-4db1-a120-6a4e933013b1.png)
+
+#### Skills Tab
+![Skills Tab](https://user-images.githubusercontent.com/112832631/206887350-929077ce-3970-40f6-ba86-1c644b05137d.png)
+
+#### Project Tab
+![Project Tab](https://user-images.githubusercontent.com/112832631/206887358-fc6fb02a-1877-4f7a-bd16-6a89b9279df0.png)
+
+
+#### Contact Tab
+![Contact Tab](https://user-images.githubusercontent.com/112832631/206887369-8d87b3a0-6312-42aa-a39e-8297d4c29d9b.png)
+
+
+### Demo
+이 포트폴리오의 양식을 보려면 [클릭](https://startbootstrap.com/theme/stylish-portfolio)하세요!
+
+### Quick Start
+If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
+- For adding your avatar , You have to replace images/my.jpg with your square photo [Perfect size : 160 x 160].
+- For changing background image, You need to replace images/floor.jpg with your prefered background.
+- For changing rest of the information, simply open index.html and you can easily understand everything.
+
+
+### Contributing
+모든 기여, 문제, 기능 팁을 환영합니다.
+
+### Contact
+
+다른 의견이나 아이디어가 있으시다면 [@sebinjab](https://twitter.com/)
 
 <!--footer-->
 <div align=left>
