@@ -24,6 +24,9 @@ Bootstap을 활용하여 포트폴리오를 완성하였습니다.
 - [Contact](#contact)
 
 ## Projects
+- 이력서 웹사이트
+	+ <a href="https://wkdtpqls.github.io/HtmlCSSHardCoding/">git.io</a> - 깃에 업로드한 이력서 프로젝트 입니다.
+	+  <a href="https://typescript-resume.netlify.app/">netlify</a> - Netlify에 업로드한 이력서 프로젝트 입니다.
 - 포트폴리오 웹사이트
 	+ <a href="https://wkdtpqls.github.io/Portfolio/">git.io</a> - 깃에 업로드한 포트폴리오 프로젝트 입니다.
 	+  <a href="https://javascript-porfolio.netlify.app/">netlify</a> - Netlify에 업로드한 포트폴리오 프로젝트 입니다.
